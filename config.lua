@@ -93,6 +93,10 @@ Config.DurabilityMultiplier = {
     ["weapon_carbinerifle_mk2"]		= 0.15,
     ["weapon_revolver_mk2"]			= 0.15,
     ["weapon_doubleaction"]			= 0.15,
+    ["weapon_m700"]			        = 0.15,
+    ["weapon_mm4"]			        = 0.15,
+    ["weapon_mp9a"]			        = 0.15,
+    ["weapon_mp5"]			        = 0.15,
 }
 
 Config.WeaponRepairPoints = {
